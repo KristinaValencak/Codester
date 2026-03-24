@@ -1,0 +1,353 @@
+{
+    "hero": {
+      "title": "Zanesljivi",
+      "titleHighlight": "avtomatizirani testi spletnih aplikacij",
+      "subtitle": "+ video vodiči uporabe vaše spletne aplikacije",
+      "description": "Vzpostavimo zanesljive teste, ki se lahko izvajajo ročno ali samodejno ob vsakem commitu (CI/CD), ter pripravimo strukturirane video prikaze ključnih potekov vaše spletne aplikacije.",
+      "ctaPrimary": "Kako delujejo testi?",
+      "ctaSecondary": "Kontaktirajte nas",
+      "navLink": "Kako poteka testiranje",
+      "navProcess": "Potek sodelovanja",
+      "navSavings": "Prihranek časa",
+      "charts": {
+        "timeComparison": "Primerjava časa",
+        "manualTesting": "Ročno testiranje",
+        "automatedTesting": "Avtomatizirano testiranje",
+        "savings": "Prihranek:",
+        "faster": "94% hitreje",
+        "fewerErrors": "Manj napak v produkciji",
+        "last30Days": "Zadnjih 30 dni",
+        "errorReduction": "-81% napak",
+        "timeSaved": "Prihranjen čas testiranja",
+        "timeSavedShort": "Prihranjen čas",
+        "lastExecution": "Zadnje izvajanje",
+        "steps": "steps",
+        "passed": "Passed",
+        "failed": "Failed",
+        "scenarios": "10 scenarios",
+        "failedTests": "Failed:",
+        "registrationSuccess": "uspešna registracija",
+        "addToCart": "klik na gumb dodaj v košarico"
+      }
+    },
+    "problem": {
+      "label": "Problem",
+      "title": "Pogoste težave pri spletnih aplikacijah",
+      "description": "Brez strukturiranega testiranja in jasnih navodil se hitro pojavijo napake, zmeda in izguba časa.",
+      "items": [
+        "Sprememba v kodi pokvari obstoječo funkcionalnost",
+        "Napake opazite šele, ko jih prijavi uporabnik",
+        "Testiranje poteka ročno in nepregledno",
+        "Novi zaposleni ali uporabniki ne vedo, kako uporabljati sistem",
+        "Enake stvari vedno znova razlagate po telefonu ali e-pošti",
+        "Ni jasnega zapisa ključnih potekov (registracija, izdaja računa, nastavitve …)"
+      ]
+    },
+    "services": {
+      "title": "Kaj uredimo za vas",
+      "items": [
+        {
+          "title": "Avtomatizirani test spletne aplikacije",
+          "description": "Vzpostavimo avtomatizirane teste za ključne funkcionalnosti vaše aplikacije, kot so prijava, nakupi, obrazci, nastavitve in drugi pomembni procesi. Testi se lahko izvajajo ročno ali pa samodejno ob vsakem posodobitvenem commitu preko CI/CD sistema."
+        },
+        {
+          "title": "Stabilno in ponovljivo testiranje",
+          "description": "Vsak ključni potek je natančno definiran in preverjen. Tako že ob prvi nadgradnji takoj vidite, če je prišlo do napake, brez dodatnega ročnega preverjanja."
+        },
+        {
+          "title": "Video prikazi uporabe sistema",
+          "description": "Pripravimo jasne in vizualne prikaze uporabe vaše aplikacije. Video vodiči so idealni za podporo uporabnikom, interno dokumentacijo ali predstavitve funkcionalnosti."
+        }
+      ]
+    },
+    "selenium": {
+      "title": "Kako delujejo avtomatizirani testi?",
+      "description": "Avtomatizirani testi s pomočjo Playwright orodja posnemajo dejansko uporabo vaše spletne aplikacije. Sistem samodejno odpre stran, izvede ključne korake (npr. prijavo, oddajo obrazca ali ustvarjanje zapisa) in preveri, ali vse deluje pravilno.",
+      "url": "https://vasa-aplikacija.si",
+      "insteadOfManual": {
+        "title": "Namesto ročnega preverjanja",
+        "description": "Namesto da nekdo ročno preverja, ali prijava deluje, registracija je uspešna, nakup ali druga funkcionalnost deluje, to opravi avtomatiziran sistem."
+      },
+      "howItWorks": {
+        "title": "Kako deluje?",
+        "description": "Test \"odpre\" vašo spletno stran, klikne gumbe, izpolni obrazce in preveri, ali vse deluje pravilno. Če pride do napake, vas sistem nanjo takoj opozori, še preden jo opazijo vaši uporabniki."
+      },
+      "clearReports": {
+        "title": "Jasna poročila",
+        "description": "Na koncu testa se izpiše tudi jasna lista mest, kjer test ni uspešno opravil preverjanja, kar omogoča hitro odpravljanje težav."
+      },
+      "form": {
+        "title": "Registracija",
+        "name": "Ime",
+        "namePlaceholder": "Vaše ime",
+        "email": "E-poštni naslov",
+        "emailPlaceholder": "vasa@email.si",
+        "password": "Geslo",
+        "passwordPlaceholder": "••••••••",
+        "button": "Registriraj se",
+        "success": "Uspešno registrirani!",
+        "welcome": "Dobrodošli, {{name}}!",
+        "welcomeDescription": "Uspešno ste se registrirali v aplikacijo."
+      }
+    },
+    "videoTutorials": {
+        "title": "Video vodiči uporabe aplikacije",
+        "description": "Med izvajanjem avtomatiziranih testov lahko ustvarimo tudi video prikaz uporabe vaše spletne aplikacije. Program počasi izvede ključne korake in ustvari jasen vizualni vodič, ki ga lahko uporabite za onboarding, dokumentacijo ali predstavitev funkcionalnosti.",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Test samodejno izvede korake",
+            "description": "Program samodejno izvaja korake po vaši spletni aplikaciji: odpira strani, klikne gumbe in izpolni obrazce."
+          },
+          {
+            "number": "02",
+            "title": "Potek se posname",
+            "description": "Med izvajanjem testa se posname celoten potek uporabe aplikacije."
+          },
+          {
+            "number": "03",
+            "title": "Vizualni vodiči",
+            "description": "Posnetek lahko uporabite kot praktičen vodič za uporabnike."
+          },
+          {
+            "number": "04",
+            "title": "Dvojna korist",
+            "description": "Dobite avtomatiziran test, ki preverja delovanje aplikacije, hkrati pa tudi jasen video prikaz uporabe."
+          }
+        ]
+      },
+      "process": {
+        "title": "Kako poteka sodelovanje",
+        "subtitle": "Brez zapletov. Jasno dogovorjeni koraki.",
+        "steps": [
+          {
+            "step": 1,
+            "title": "Pregled vaše aplikacije",
+            "description": "in obstoječega procesa testiranja"
+          },
+          {
+            "step": 2,
+            "title": "Določitev ključnih funkcionalnosti",
+            "description": "ki jih je smiselno avtomatizirati"
+          },
+          {
+            "step": 3,
+            "title": "Izdelava in nastavitev",
+            "description": "avtomatiziranih testov"
+          },
+          {
+            "step": 4,
+            "title": "Po potrebi priprava",
+            "description": "video prikazov uporabe"
+          },
+          {
+            "step": 5,
+            "title": "Predaja sistema",
+            "description": "in kratka razlaga delovanja"
+          }
+        ]
+      },
+      "statistics": {
+        "title": "Rezultati avtomatizacije",
+        "description": "Z avtomatizacijo testiranja dosežete merljive rezultate, ki izboljšajo kakovost in zanesljivost vaše aplikacije.",
+        "items": [
+          {
+            "target": 70,
+            "suffix": "%",
+            "description": "Z avtomatizacijo zmanjšate ročno preverjanje delovanja."
+          },
+          {
+            "target": 24,
+            "suffix": "/7",
+            "description": "Testi se lahko izvajajo ob vsakem commitu ali po urniku."
+          },
+          {
+            "target": 100,
+            "suffix": "%",
+            "description": "Zanesljivost in konsistentnost avtomatiziranih testov pri vsakem izvajanju."
+          }
+        ]
+      },
+      "timeCalculator": {
+      "title": "Koliko časa izgubite z ročnim testiranjem?",
+      "description": "Izračunajte, koliko časa zapravljate z ročnim testiranjem in koliko bi lahko prihranili z avtomatizacijo.",
+      "input": {
+        "label": "Koliko ur tedensko testirate ročno?",
+        "suffix": "ur/teden",
+        "yearlyInfo": "To pomeni {{hours}} ur na leto"
+      },
+      "results": {
+        "title": "Z avtomatizacijo bi lahko prihranili:",
+        "description": "Avtomatizacija testiranja lahko prihrani do {{percent}}% vašega časa",
+        "labels": {
+          "hoursPerYear": "Prihranjenih ur na leto",
+          "daysPerYear": "Delovnih dni na leto (pri 8h/dan)",
+          "hoursPerMonth": "Prihranjenih ur na mesec",
+          "daysPerMonth": "Delovnih dni na mesec",
+          "hoursPerWeek": "Prihranjenih ur na teden",
+          "moreTime": "Več časa za razvoj novih funkcionalnosti"
+        },
+        "suffixes": {
+          "hours": " ur",
+          "days": " dni"
+        }
+      }
+    },
+    "targetAudience": {
+        "title": "Komu je storitev namenjena",
+        "description": "Naše storitve so prilagojene različnim podjetjem, ki potrebujejo zanesljivo in avtomatizirano testiranje svojih spletnih aplikacij.",
+        "items": [
+          {
+            "title": "Podjetjem z lastno spletno aplikacijo",
+            "description": "Za podjetja, ki razvijajo in vzdržujejo lastne spletne aplikacije in potrebujejo zanesljivo testiranje ključnih funkcionalnosti.",
+            "icon": "💼"
+          },
+          {
+            "title": "Lastnikom spletnih trgovin",
+            "description": "Za e-trgovce, ki morajo zagotoviti, da procesi nakupa, plačila in dostave delujejo brez napak.",
+            "icon": "🛒"
+          },
+          {
+            "title": "Startup podjetjem v razvoju",
+            "description": "Za startup podjetja, ki hitro rastejo in potrebujejo avtomatizirane teste za ohranjanje kakovosti med razvojem.",
+            "icon": "🚀"
+          },
+          {
+            "title": "Razvojnim ekipam",
+            "description": "Za razvojne ekipe, ki želijo bolj nadzorovano in strukturirano testiranje z jasnimi procesi in dokumentacijo.",
+            "icon": "👥"
+          },
+          {
+            "title": "Podjetjem, ki optimizirajo procese",
+            "description": "Za podjetja, ki želijo zmanjšati ročno preverjanje delovanja sistema in povečati učinkovitost testiranja.",
+            "icon": "⚙️"
+          },
+          {
+            "title": "Organizacijam z več aplikacijami",
+            "description": "Za podjetja z več spletnimi aplikacijami, ki potrebujejo centralizirano rešitev za testiranje vseh sistemov.",
+            "icon": "🏢"
+          }
+        ]
+      },
+    "faq": {
+      "title": "Pogosto zastavljena vprašanja",
+      "subtitle": "Odgovori na najpogostejša vprašanja o avtomatiziranem testiranju",
+      "questions": [
+        {
+          "question": "Kaj pomeni \"ključni poslovni scenarij\"?",
+          "answer": "Ključni poslovni scenarij je celoten uporabniški potek od začetka do konca, na primer: prijava uporabnika, registracija, dodajanje izdelka v košarico ali zaključek nakupa. Gre za realne procese, ki so pomembni za delovanje in prihodke vaše aplikacije."
+        },
+        {
+          "question": "Kaj je razlika med enim testom in več koraki?",
+          "answer": "En test lahko vsebuje več korakov (kliki, vnosi podatkov, preverjanja). Na primer: prijava uporabnika običajno vsebuje 5–8 korakov, medtem ko lahko celoten nakupni proces vsebuje 10–15 korakov. Test pokriva celoten scenarij, ne posameznega klika."
+        },
+        {
+          "question": "Ali testi delujejo samodejno?",
+          "answer": "Da. Testi so avtomatizirani in jih je mogoče poganjati lokalno ali preko CI/CD sistema (npr. ob vsakem novem deployu). To omogoča hitro zaznavanje napak brez ročnega testiranja."
+        },
+        {
+          "question": "Ali lahko vidite teste, ko se izvajajo?",
+          "answer": "Da. Testi se izvajajo v realnem brskalniku, zato lahko vidite vsak korak, ko se izvaja – kliki, vnose podatkov, navigacijo po strani in vse interakcije. Hitrost izvajanja lahko prilagodite, tako da lahko testi tečejo hitro v ozadju ali počasneje za boljšo preglednost. To omogoča enostavno debugiranje in razumevanje, kaj se dogaja v vsakem trenutku."
+        },
+        {
+          "question": "Kaj se zgodi, če se aplikacija spremeni?",
+          "answer": "Če pride do sprememb v uporabniškem vmesniku ali logiki, je teste potrebno prilagoditi. Zato ponujamo tudi možnost mesečnega vzdrževanja, kjer poskrbimo za stabilnost testov skozi čas."
+        },
+        {
+          "question": "Ali lahko dodamo dodatne scenarije kasneje?",
+          "answer": "Seveda. Testno pokritost je možno razširiti kadarkoli glede na razvoj aplikacije ali nove funkcionalnosti."
+        },
+        {
+          "question": "Koliko časa traja izvedba projekta?",
+          "answer": "Čas izvedbe je odvisen od kompleksnosti aplikacije. Večina projektov je zaključena v 2–4 tednih."
+        },
+        {
+          "question": "Kako začnemo sodelovanje?",
+          "answer": "Začnemo s kratkim tehničnim pregledom aplikacije, kjer identificiramo ključne poslovne poteke. Na podlagi tega pripravimo prilagojeno ponudbo."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Cenik",
+      "subtitle": "Prilagodljivi paketi za vse velikosti projektov. Cene so orientacijske – vsak projekt je unikaten.",
+      "packages": [
+        {
+          "name": "Starter",
+          "description": "Za manjše spletne aplikacije in MVP projekte",
+          "price": "od 900€",
+          "features": [
+            "Do 5 ključnih poslovnih scenarijev (prijava, registracija, osnovni poteki)",
+            "E2E avtomatizacija testov za spletno aplikacijo",
+            "Stabilna in pregledna struktura testov",
+            "Lokalni zagon testov",
+            "Osnovna dokumentacija",
+            "14 dni podpore po predaji"
+          ]
+        },
+        {
+          "name": "Growth",
+          "description": "Za večje spletne aplikacije",
+          "price": "od 1.900€",
+          "features": [
+            "10+ ključnih poslovnih scenarijev",
+            "Strukturiran in razširljiv testni framework",
+            "Možnost vključitve testov v CI proces (GitHub, GitLab ipd.)",
+            "Video demo predstavitev (do 2 scenarija)",
+            "Podrobnejša dokumentacija",
+            "30 dni podpore po predaji",
+            "Osnovna optimizacija stabilnosti testov"
+          ]
+        },
+        {
+          "name": "Mesečno vzdrževanje",
+          "description": "Za redno prilagajanje testov ob spremembah aplikacije",
+          "price": "od 290€ / mesec",
+          "features": [
+            "Posodobitve testov ob spremembah funkcionalnosti",
+            "Popravki ob nestabilnosti testov",
+            "Dodajanje manjših novih scenarijev",
+            "Svetovanje glede izboljšave testne pokritosti",
+            "Email podpora",
+            "Mesečno poročilo o stanju testov"
+          ]
+        }
+      ],
+      "note": {
+        "flexiblePrices": "Prilagodljive cene:",
+        "flexiblePricesText": "Vsak projekt je unikaten. Cene so orientacijske in se prilagajajo kompleksnosti vaše aplikacije, številu testov in dodatnim zahtevam. Kontaktirajte nas za prilagojeno ponudbo.",
+        "videoTutorials": "Video vodiči:",
+        "videoTutorialsText": "Cena za video vodiče se naknadno dogovori glede na vaše specifične potrebe."
+      }
+    },
+    "contact": {
+      "title": "Poskrbite, da vaša aplikacija deluje zanesljivo",
+      "subtitle": "Avtomatizirajte ključne funkcionalnosti in zmanjšajte tveganje napak.",
+      "form": {
+        "name": "Ime in priimek",
+        "namePlaceholder": "Vaše ime",
+        "email": "E-poštni naslov",
+        "emailPlaceholder": "vas@email.com",
+        "message": "Sporočilo",
+        "messagePlaceholder": "Povejte nam več o vašem projektu...",
+        "submit": "Pošljite povpraševanje",
+        "submitting": "Pošiljanje...",
+        "success": "Hvala! Vaše sporočilo je bilo uspešno poslano. Kontaktirali vas bomo kmalu.",
+        "error": "Oprostite, prišlo je do napake. Prosimo, poskusite znova ali nas kontaktirajte neposredno.",
+        "contact": "Kontakt"
+      }
+    },
+    "footer": {
+      "description": "Zanesljivo avtomatizirano testiranje vaših spletnih aplikacij. Zmanjšajte napake v produkciji in prihranite čas z našimi testi in video vodiči.",
+      "navigation": "Navigacija",
+      "links": {
+        "howItWorks": "Kako delujejo testi?",
+        "videoTutorials": "Video vodiči",
+        "pricing": "Cenik",
+        "faq": "FAQ"
+      },
+      "copyright": "© 2026 Codester. Vse pravice pridržane."
+    },
+    "common": {
+      "language": "Jezik"
+    }
+  }
