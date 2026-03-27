@@ -1,0 +1,353 @@
+{
+    "hero": {
+      "title": "Reliable",
+      "titleHighlight": "automated testing for web applications",
+      "subtitle": "+ video guides for your web application",
+      "description": "We set up reliable tests that can be executed manually or automatically on every commit (CI/CD), and prepare structured video demonstrations of key workflows in your web application.",
+      "ctaPrimary": "How do tests work?",
+      "ctaSecondary": "Contact us",
+      "navLink": "How testing works", 
+      "navProcess": "Our process",
+      "navSavings": "Time savings",
+      "charts": {
+        "timeComparison": "Time comparison",
+        "manualTesting": "Manual testing",
+        "automatedTesting": "Automated testing",
+        "savings": "Savings:",
+        "faster": "94% faster",
+        "fewerErrors": "Fewer errors in production",
+        "last30Days": "Last 30 days",
+        "errorReduction": "-81% errors",
+        "timeSaved": "Testing time saved",
+        "timeSavedShort": "Time saved",
+        "lastExecution": "Last execution",
+        "steps": "steps",
+        "passed": "Passed",
+        "failed": "Failed",
+        "scenarios": "10 scenarios",
+        "failedTests": "Failed:",
+        "registrationSuccess": "successful registration",
+        "addToCart": "click 'Add to cart' button"
+      }
+    },
+    "problem": {
+      "label": "Problem",
+      "title": "Common issues with web applications",
+      "description": "Without structured testing and clear instructions, errors, confusion and time loss quickly arise.",
+      "items": [
+        "Code changes break existing functionality",
+        "You only notice errors when users report them",
+        "Testing is done manually and unclear",
+        "New employees or users don't know how to use the system",
+        "You keep explaining the same things over the phone or email",
+        "No clear record of key workflows (registration, invoicing, settings...)"
+      ]
+    },
+    "services": {
+      "title": "What we set up for you",
+      "items": [
+        {
+          "title": "Automated testing for web applications",
+          "description": "We set up automated tests for key functionalities of your application, such as login, purchases, forms, settings and other important processes. Tests can be run manually or automatically on every update commit via CI/CD system."
+        },
+        {
+          "title": "Stable and repeatable testing",
+          "description": "Each key workflow is precisely defined and verified. This way, you immediately see if an error occurred on the first upgrade, without additional manual checking."
+        },
+        {
+          "title": "System usage video demonstrations",
+          "description": "We prepare clear and visual demonstrations of your application usage. Video tutorials are ideal for user support, internal documentation or feature presentations."
+        }
+      ]
+    },
+    "selenium": {
+      "title": "How do automated tests work?",
+      "description":"Automated tests powered by Playwright simulate real user interactions with your web application. The system automatically opens the page, performs key actions (e.g. login, form submission, creating records) and verifies that everything works correctly.",
+      "url": "https://your-app.com",
+      "insteadOfManual": {
+        "title": "Instead of manual checking",
+        "description": "Instead of someone manually checking if login works, registration is successful, purchase or other functionality works, an automated system does this."
+      },
+      "howItWorks": {
+        "title": "How does it work?",
+        "description": "The test \"opens\" your website, clicks buttons, fills forms and checks if everything works correctly. If an error occurs, the system immediately alerts you, before your users notice it."
+      },
+      "clearReports": {
+        "title": "Clear reports",
+        "description": "At the end of the test, a clear list of steps where the test failed is also displayed, which allows quick troubleshooting."
+      },
+      "form": {
+        "title": "Registration",
+        "name": "Name",
+        "namePlaceholder": "Your name",
+        "email": "Email address",
+        "emailPlaceholder": "your@email.com",
+        "password": "Password",
+        "passwordPlaceholder": "••••••••",
+        "button": "Register",
+        "success": "Successfully registered!",
+        "welcome": "Welcome, {{name}}!",
+        "welcomeDescription": "You have successfully registered in the application."
+      }
+    },
+    "videoTutorials": {
+        "title": "Application usage video tutorials",
+        "description": "While running automated tests, we can also create a video demonstration of your web application usage. The program slowly executes key steps and creates a clear visual guide that you can use for onboarding, documentation or feature presentation.",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Test automatically executes steps",
+            "description": "The program automatically executes steps through your web application: opens pages, clicks buttons and fills forms."
+          },
+          {
+            "number": "02",
+            "title": "Process is recorded",
+            "description": "During test execution, the entire application usage flow is recorded."
+          },
+          {
+            "number": "03",
+            "title": "Visual guides",
+            "description": "The recording can be used as a practical guide for users."
+          },
+          {
+            "number": "04",
+            "title": "Double benefit",
+            "description": "You get an automated test that checks application functionality, while also getting a clear video demonstration of usage."
+          }
+        ]
+      },
+      "process": {
+        "title": "How cooperation works",
+        "subtitle": "Without complications. Clearly agreed steps.",
+        "steps": [
+          {
+            "step": 1,
+            "title": "Review of your application",
+            "description": "and existing testing process"
+          },
+          {
+            "step": 2,
+            "title": "Determining key functionalities",
+            "description": "that make sense to automate"
+          },
+          {
+            "step": 3,
+            "title": "Development and setup",
+            "description": "of automated tests"
+          },
+          {
+            "step": 4,
+            "title": "Preparation if needed",
+            "description": "of usage video demonstrations"
+          },
+          {
+            "step": 5,
+            "title": "System handover",
+            "description": "and brief explanation of operation"
+          }
+        ]
+      },
+      "statistics": {
+        "title": "Automation results",
+        "description": "With test automation you achieve measurable results that improve the quality and reliability of your application.",
+        "items": [
+          {
+            "target": 70,
+            "suffix": "%",
+            "description": "With automation you reduce manual functionality checking."
+          },
+          {
+            "target": 24,
+            "suffix": "/7",
+            "description": "Tests can be run on every commit or on schedule."
+          },
+          {
+            "target": 100,
+            "suffix": "%",
+            "description": "Reliability and consistency of automated tests on every execution."
+          }
+        ]
+      },
+      "timeCalculator": {
+        "title": "How much time do you lose with manual testing?",
+        "description": "Calculate how much time you spend on manual testing and how much you could save with automation.",
+        "input": {
+          "label": "How many hours per week do you test manually?",
+          "suffix": "hours/week",
+          "yearlyInfo": "That means {{hours}} hours per year"
+        },
+        "results": {
+          "title": "With automation you could save:",
+          "description": "Test automation can save up to {{percent}}% of your time",
+          "labels": {
+            "hoursPerYear": "Hours saved per year",
+            "daysPerYear": "Working days per year (at 8h/day)",
+            "hoursPerMonth": "Hours saved per month",
+            "daysPerMonth": "Working days per month",
+            "hoursPerWeek": "Hours saved per week",
+            "moreTime": "More time for developing new features"
+          },
+          "suffixes": {
+            "hours": " hours",
+            "days": " days"
+          }
+        }
+      },
+      "targetAudience": {
+        "title": "Who is the service for",
+        "description": "Our services are tailored to different companies that need reliable and automated testing of their web applications.",
+        "items": [
+          {
+            "title": "Companies with their own web application",
+            "description": "For companies that develop and maintain their own web applications and need reliable testing of key functionalities.",
+            "icon": "💼"
+          },
+          {
+            "title": "E-commerce store owners",
+            "description": "For e-commerce businesses that need to ensure purchase, payment and delivery processes work without errors.",
+            "icon": "🛒"
+          },
+          {
+            "title": "Growing startups",
+            "description": "For startup companies that are growing rapidly and need automated tests to maintain quality during development.",
+            "icon": "🚀"
+          },
+          {
+            "title": "Development teams",
+            "description": "For development teams that want more controlled and structured testing with clear processes and documentation.",
+            "icon": "👥"
+          },
+          {
+            "title": "Companies optimizing processes",
+            "description": "For companies that want to reduce manual system functionality checking and increase testing efficiency.",
+            "icon": "⚙️"
+          },
+          {
+            "title": "Organizations with multiple applications",
+            "description": "For companies with multiple web applications that need a centralized solution for testing all systems.",
+            "icon": "🏢"
+          }
+        ]
+      },
+    "faq": {
+      "title": "Frequently asked questions",
+      "subtitle": "Answers to the most common questions about automated testing",
+      "questions": [
+        {
+          "question": "What does \"key business scenario\" mean?",
+          "answer": "A key business scenario is the entire user flow from start to finish, for example: user login, registration, adding a product to cart or completing a purchase. These are real processes that are important for the operation and revenue of your application."
+        },
+        {
+          "question": "What is the difference between a test and its steps?",
+          "answer": "One test can contain multiple steps (clicks, data entry, checks). For example: user login usually contains 5-8 steps, while the entire purchase process can contain 10-15 steps. The test covers the entire scenario, not a single click."
+        },
+        {
+          "question": "Do tests run automatically?",
+          "answer": "Yes. Tests are automated and can be run locally or via CI/CD system (e.g. on every new deploy). This enables quick error detection without manual testing."
+        },
+        {
+          "question": "Can you see tests when they run?",
+          "answer": "Yes. Tests run in a real browser, so you can see every step as it executes – clicks, data entry, page navigation and all interactions. You can adjust the execution speed, so tests can run quickly in the background or slower for better visibility. This enables easy debugging and understanding what happens at every moment."
+        },
+        {
+          "question": "What happens if the application changes?",
+          "answer": "If there are changes in the user interface or logic, tests need to be adjusted. That's why we also offer monthly maintenance, where we take care of test stability over time."
+        },
+        {
+          "question": "Can we add additional scenarios later?",
+          "answer": "Of course. Test coverage can be expanded at any time based on application development or new features."
+        },
+        {
+          "question": "How long does project execution take?",
+          "answer": "Execution time depends on application complexity. Most projects are completed in 2-4 weeks."
+        },
+        {
+          "question": "How do we start cooperation?",
+          "answer": "We start with a short technical review of the application, where we identify key business workflows. Based on this, we prepare a customized offer."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Pricing",
+      "subtitle": "Flexible packages for all project sizes. Prices are indicative – each project is unique.",
+      "packages": [
+        {
+          "name": "Starter",
+          "description": "For smaller web applications and MVP projects",
+          "price": "from €900",
+          "features": [
+            "Up to 5 key business scenarios (login, registration, basic flows)",
+            "E2E test automation for web application",
+            "Stable and clear test structure",
+            "Local test execution",
+            "Basic documentation",
+            "14 days support after delivery"
+          ]
+        },
+        {
+          "name": "Growth",
+          "description": "For larger web applications",
+          "price": "from €1,900",
+          "features": [
+            "10+ key business scenarios",
+            "Structured and extensible test framework",
+            "Option to include tests in CI process (GitHub, GitLab, etc.)",
+            "Video demo recordings (up to 2 scenarios)",
+            "More detailed documentation",
+            "30 days support after delivery",
+            "Basic test stability optimization"
+          ]
+        },
+        {
+          "name": "Monthly maintenance",
+          "description": "For regular test adjustments when the application changes",
+          "price": "from €290 / month",
+          "features": [
+            "Test updates when functionality changes",
+            "Fixes for test instability",
+            "Adding smaller new scenarios",
+            "Consulting on improving test coverage",
+            "Email support",
+            "Monthly test status report"
+          ]
+        }
+      ],
+      "note": {
+        "flexiblePrices": "Flexible prices:",
+        "flexiblePricesText": "Each project is unique. Prices are indicative and adjust to the complexity of your application, number of tests and additional requirements. Contact us for a customized offer.",
+        "videoTutorials": "Video tutorials:",
+        "videoTutorialsText": "The price for video tutorials is agreed upon later based on your specific needs."
+      }
+    },
+    "contact": {
+      "title": "Ensure your application works reliably",
+      "subtitle": "Automate key functionalities and reduce the risk of errors.",
+      "form": {
+        "name": "Full name",
+        "namePlaceholder": "Your name",
+        "email": "Email address",
+        "emailPlaceholder": "your@email.com",
+        "message": "Message",
+        "messagePlaceholder": "Tell us more about your project...",
+        "submit": "Send message",
+        "submitting": "Sending...",
+        "success": "Thank you! Your message has been sent successfully. We will contact you soon.",
+        "error": "Sorry, an error occurred. Please try again or contact us directly.",
+        "contact": "Contact"
+      }
+    },
+    "footer": {
+      "description": "Reliable automated testing for your web applications. Reduce errors in production and save time with our tests and video tutorials.",
+      "navigation": "Navigation",
+      "links": {
+        "howItWorks": "How it works",
+        "videoTutorials": "Video tutorials",
+        "pricing": "Pricing",
+        "faq": "FAQ"
+      },
+      "copyright": "© 2026 Codester. All rights reserved."
+    },
+    "common": {
+      "language": "Language"
+    }
+  }
